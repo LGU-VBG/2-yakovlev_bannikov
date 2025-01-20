@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\Новая папка (2)\\__КОЛЛЕДЖ__\\ВО\\2 курс\\Программирование\\2-yakovlev_bannikov\\PracticeTask\\PracticeTask.csproj": {}
+  },
+  "projects": {
+    "d:\\Новая папка (2)\\__КОЛЛЕДЖ__\\ВО\\2 курс\\Программирование\\2-yakovlev_bannikov\\PracticeTask\\PracticeTask.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Новая папка (2)\\__КОЛЛЕДЖ__\\ВО\\2 курс\\Программирование\\2-yakovlev_bannikov\\PracticeTask\\PracticeTask.csproj",
+        "projectName": "PracticeTask",
+        "projectPath": "d:\\Новая папка (2)\\__КОЛЛЕДЖ__\\ВО\\2 курс\\Программирование\\2-yakovlev_bannikov\\PracticeTask\\PracticeTask.csproj",
+        "packagesPath": "C:\\Users\\Yakovlev\\.nuget\\packages\\",
+        "outputPath": "d:\\Новая папка (2)\\__КОЛЛЕДЖ__\\ВО\\2 курс\\Программирование\\2-yakovlev_bannikov\\PracticeTask\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yakovlev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
